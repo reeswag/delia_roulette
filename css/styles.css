@@ -4,11 +4,6 @@ body {
     font-weight: bold;
   }
   
-  buttons {
-    border: 1px;
-    border-radius: 20px;
-  }
-  
   #main {
     display: block;
     width: 60%;
@@ -19,7 +14,9 @@ body {
     border-radius: 5%;
     padding: 1%;
   }
-  
+  #rand {
+    border-radius: 40px;
+  }
   #img-div {
     display: block;
   }
