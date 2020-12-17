@@ -6,8 +6,8 @@ body {
   
   #main {
     display: block;
-    width: 60%;
-    min-width: 500px;
+    min-width: 60%;
+    max-width: 1000px;
     margin: auto;
     color: white;
     background: black;
@@ -17,6 +17,7 @@ body {
   #rand {
     border-radius: 40px;
     color: white;
+    background-color: black;
   }
   #img-div {
     display: block;
