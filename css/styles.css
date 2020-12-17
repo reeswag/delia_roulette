@@ -16,6 +16,7 @@ body {
   }
   #rand {
     border-radius: 40px;
+    color: white;
   }
   #img-div {
     display: block;
